@@ -1,5 +1,3 @@
-### Olá, eu sou Ruan Ruiz ou se vc preferir, Ruru!
-
  ##
 
 <div align="center">
