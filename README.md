@@ -23,14 +23,24 @@
   <img alt="MCP" src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white">
  </div>
  
- ##
+##
+
 <div align="center">
   <a href="https://github.com/ruanhcr">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ruanhcr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanhcr&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ruanhcr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanhcr&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=86400"/>
+  </a>
 </div>
-  
- ##
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ruanhcr&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ruanhcr&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+##
   
  <div align="center">
  <a href="https://www.linkedin.com/in/ruanruiz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
