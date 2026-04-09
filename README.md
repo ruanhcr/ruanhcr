@@ -29,10 +29,6 @@
   <img src="https://streak-stats.demolab.com?user=ruanhcr&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruanhcr&theme=tokyo-night&hide_border=false&area=true" alt="Activity Graph"/>
-</div>
-
  ##
   
  <div align="center">
